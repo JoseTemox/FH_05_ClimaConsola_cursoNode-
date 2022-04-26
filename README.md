@@ -7,8 +7,6 @@ para iniciar la app, desde el directorio del proyecto colocar en consola los sig
 
 para instalar las dependencias
 
-apis
-
 ```sh
 npm i
 ```
