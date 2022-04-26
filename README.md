@@ -12,6 +12,7 @@ para iniciar la app
 
 ```sh
 node index
+
 ```
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+![Image text](https://github.com/JoseTemox/FH_05_ClimaConsola_cursoNode-/blob/main/images/Imagen1.png)
