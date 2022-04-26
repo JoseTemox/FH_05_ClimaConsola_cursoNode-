@@ -1,8 +1,13 @@
-# FH_04_TareasConsola_cursoNode
+# App de consola para consultar el clima de ciudades
+
+- [Mapbox](https://www.mapbox.com/) - api para consultar coordenadas de la ciudad.
+- [openweathermap](https://api.openweathermap.org/) - api para consultar clima de ciudades por coordenadas.
 
 para iniciar la app, desde el directorio del proyecto colocar en consola los siguientes comandos
 
 para instalar las dependencias
+
+apis
 
 ```sh
 npm i
